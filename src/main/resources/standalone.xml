@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subsystem xmlns="urn:jboss:domain:logging:2.0">
+    <logger category="br.com.caelum.vraptor">
+        <level name="DEBUG"/>
+    </logger>
+    <!-- restante do conteúdo -->
+</subsystem>
